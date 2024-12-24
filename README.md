@@ -25,6 +25,7 @@ Jupyter Notebook
 Streamlit
 
 ## Future Work
+
 Expand the dataset to include more diverse fake audio samples.
 
 We try to deploy this ML nmodel using Deep Learning.
@@ -35,8 +36,8 @@ We try to add a feature by which we can classify the Mimic Voices.
 
 This project was built with dedication by:
 
-Ritam Koley
+*Ritam Koley*
 
-Krishnagopal Jay
+*Krishnagopal Jay*
 
-Jit Mandal
+*Jit Mandal*
