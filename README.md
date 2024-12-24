@@ -10,8 +10,11 @@ Python
 
 Libraries:
 NumPy
+
 pandas
+
 librosa
+
 scikit-learn
 
 Tools: Jupyter Notebook, Streamlit
@@ -23,12 +26,12 @@ We try to deploy this ML nmodel using Deep Learning.
 
 We try to add a feature by which we can classify the Mimic Voices.
 
-Contributors
+## Contributors
 
 This project was built with dedication by:
 
-[Ritam Koley]
+Ritam Koley
 
-[Friend 1's Name]
+Krishnagopal Jay
 
-[Friend 2's Name]
+Jit Mandal
