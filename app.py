@@ -3,8 +3,8 @@ import numpy as np
 import pickle
 
 # Load the trained model
-loaded_model = pickle.load(open("trained_model.sav", 'rb'))
-scaler = pickle.load(open("scaler.sav", 'rb'))
+loaded_model = pickle.load(open(f'{working_dir}/trained_model.sav', 'rb'))
+scaler = pickle.load(open(f'{working_dir}scaler.sav', 'rb'))
 
 #creating a function for prediction
 def audio_prediction(input_data):
