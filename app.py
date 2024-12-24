@@ -7,8 +7,8 @@ from streamlit_option_menu import option_menu
 working_dir = os.path.dirname(os.path.abspath(__file__))
 
 # Load the trained model
-loaded_model = pickle.load(open(f'{working_dir}/saved_models/trained_model.sav', 'rb'))
-scaler = pickle.load(open(f'{working_dir}/saved_models/scaler.sav', 'rb'))
+loaded_model = pickle.load(open(f'{working_dir}/Saved_models/trained_model.sav', 'rb'))
+scaler = pickle.load(open(f'{working_dir}/Saved_models/scaler.sav', 'rb'))
 
 #creating a function for prediction
 def audio_prediction(input_data):
