@@ -25,9 +25,9 @@ def audio_prediction(input_data):
     print(prediction)
 
     if (prediction[0]==1):
-        return "This person is real"
+        return "This Audio is real"
     else:
-        return "This person is fake"
+        return "This Audio is fake"
 
 
 def main():
