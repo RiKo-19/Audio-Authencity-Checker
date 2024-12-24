@@ -38,6 +38,6 @@ This project was built with dedication by:
 
 *Ritam Koley*
 
-*Krishnagopal Jay*
+*Krishnagopal Jay*  [https://github.com/krishna4002/Audio-Authencity-Checker]
 
 *Jit Mandal*   [https://github.com/jit-mandal-31/Audio-authenticity-checker]
