@@ -5,10 +5,11 @@ Welcome to the Audio Authenticity Checker repository! This project demonstrates 
 This project was created collaboratively by three friends passionate about machine learning and audio processing. The goal of this project is to tackle challenges in identifying fake audio, which could be generated through deepfake audio tools. Here we create a webpage where an user give input and check whether an audio is real or fake.
 
 ## Technologies Used
-Programming Language: 
+### *Programming Language:*
 Python
 
-Libraries:
+### *Libraries:*
+
 NumPy
 
 pandas
@@ -17,7 +18,11 @@ librosa
 
 scikit-learn
 
-Tools: Jupyter Notebook, Streamlit
+### *Tools:*
+
+Jupyter Notebook 
+
+Streamlit
 
 ## Future Work
 Expand the dataset to include more diverse fake audio samples.
