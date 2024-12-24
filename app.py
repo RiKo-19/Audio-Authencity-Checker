@@ -1,6 +1,9 @@
 import streamlit as st
 import numpy as np
 import pickle
+from streamlit_option_menu import option_menu
+
+working_dir = os.path.dirname(os.path.abspath(__file__))
 
 # Load the trained model
 loaded_model = pickle.load(open(f'{working_dir}/trained_model.sav', 'rb'))
