@@ -4,7 +4,7 @@ import pickle
 
 # Load the trained model
 loaded_model = pickle.load(open(f'{working_dir}/trained_model.sav', 'rb'))
-scaler = pickle.load(open(f'{working_dir}scaler.sav', 'rb'))
+scaler = pickle.load(open(f'{working_dir}/scaler.sav', 'rb'))
 
 #creating a function for prediction
 def audio_prediction(input_data):
