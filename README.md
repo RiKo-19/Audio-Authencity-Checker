@@ -1,2 +1,2 @@
 # Real-Voice-Detection
-We create this model to check whether a Audio is Real or Fake.
+Welcome to the Audio Authenticity Checker repository! This project demonstrates our effort in developing a machine learning model that determines whether an audio file is real or fake.
