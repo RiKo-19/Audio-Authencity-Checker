@@ -40,5 +40,4 @@ This project was built with dedication by:
 
 *Krishnagopal Jay*
 
-*Jit Mandal* 
-[https://github.com/jit-mandal-31/Audio-authenticity-checker]
+*Jit Mandal*   [https://github.com/jit-mandal-31/Audio-authenticity-checker]
