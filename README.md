@@ -1,10 +1,6 @@
 # Audio Authencity Checker
 Welcome to the Audio Authenticity Checker repository! This project demonstrates our effort in developing a machine learning model that determines whether an audio file is real or fake.
 
-### Webpage Link
-
-https://90d0-35-202-33-64.ngrok-free.app/
-
 ## About the Project
 This project was created collaboratively by us who are passionate about machine learning and audio processing. The goal of this project is to tackle challenges in identifying fake audio, which could be generated through deepfake audio tools. Here we create a webpage where an user give input and check whether an audio is real or fake.
 
