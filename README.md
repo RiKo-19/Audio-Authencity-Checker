@@ -30,7 +30,7 @@ Streamlit
 
 Expand the dataset to include more diverse fake audio samples.
 
-We try to deploy this ML nmodel using Deep Learning.
+We try to deploy this ML model using Deep Learning.
 
 We try to add a feature by which we can classify the Mimic Voices.
 
